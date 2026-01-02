@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "PaperMod"
+[params]
+    [params.profileMode]
+        enabled = true
+        title = "你好，我是 tooram"
+        subtitle = "这里记录我与我的笔记"
+        imageUrl = "img/avatar.jpg" # 放置在 static/img/ 目录下
+        [[params.profileMode.buttons]]
+            name = "笔记"
+            url = "posts"
+        [[params.profileMode.buttons]]
+            name = "关于我"
+            url = "about"
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/tooram"
