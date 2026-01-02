@@ -6,8 +6,10 @@ theme = "PaperMod"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-    
+
 [params]
+    showToc: true
+    TocOpen: false # 是否默认展开
     [params.profileMode]
         enabled = true
         title = "你好，我是 tooram"
