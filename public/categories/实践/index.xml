@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>实践 on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/%E5%AE%9E%E8%B7%B5/</link>
+    <description>Recent content in 实践 on My New Hugo Site</description>
     <generator>Hugo -- 0.154.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Jan 2026 00:15:17 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E5%AE%9E%E8%B7%B5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>减熵的需求</title>
       <link>http://localhost:1313/posts/my-first-note/</link>
