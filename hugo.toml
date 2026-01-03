@@ -6,15 +6,21 @@ theme = "PaperMod"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[outputs]
+    home = ["HTML", "RSS", "JSON"] # 必须生成 JSON 索引文件
 
 [params]
-    showToc: true
-    TocOpen: false # 是否默认展开
+    showToc = true
+    TocOpen = false # 是否默认展开
     [params.profileMode]
         enabled = true
         title = "你好，我是 tooram"
         subtitle = "这里记录我与我的笔记"
         imageUrl = "img/avatar.jpg" # 放置在 static/img/ 目录下
+        [[menu.main]]
+            name = "🔍 搜索"
+            url = "search"
+            weight = 10 # 数字越小越靠左
         [[params.profileMode.buttons]]
             name = "笔记"
             url = "posts"

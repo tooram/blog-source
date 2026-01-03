@@ -9,14 +9,18 @@
     <lastBuildDate>Fri, 02 Jan 2026 22:22:17 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Note</title>
+      <title>第一篇笔记</title>
       <link>http://localhost:1313/posts/my-first-note/</link>
       <pubDate>Fri, 02 Jan 2026 22:22:17 +0800</pubDate>
       <guid>http://localhost:1313/posts/my-first-note/</guid>
-      <description>&lt;h1 id=&#34;first-note&#34;&gt;first note&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;这是我的第一篇笔记内容。&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;h1 id=&#34;第一篇笔记&#34;&gt;第一篇笔记&lt;/h1&gt;
+&lt;h2 id=&#34;1-介绍&#34;&gt;1. 介绍&lt;/h2&gt;
+&lt;p&gt;这个blog的初衷是做一个简单的自我介绍，存放自己所做过的事和取得的一点成就，以及记录个人在读书、思考或实践中获得的知识和经验，以此为第一篇笔记。&lt;/p&gt;
+&lt;h2 id=&#34;2-熵减的需求&#34;&gt;2. 熵减的需求&lt;/h2&gt;
+&lt;p&gt;人在小时候，总会沉迷于能够带来即时满足的事情，或是说追寻信息的获取。在信息爆炸的现在，一味追求信息获取的多巴胺，只会导致内心不断的熵增，而在被迫停下后，留下的是多巴胺轰炸过后的空虚，与被迫进行的“思维风暴”。&lt;/p&gt;
+&lt;p&gt;“思维风暴”通常会在睡前不得不将手机放下的时候发生，与白天被多巴胺填充导致的“脑雾”相反，这时大脑又会变得异常活跃，这种活跃又会促使你想要拿起手机继续获取信息，从而陷入恶性循环。&lt;/p&gt;
+&lt;p&gt;在2025年12月19日，我发现脑雾发生的越来越频繁，之前的我好像不是这样，于是我删除了手机上的b站、抖音、小红书，尝试通过这种方式来放慢信息的获取。&lt;/p&gt;
+&lt;h2 id=&#34;3-体验&#34;&gt;3. 体验&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>
